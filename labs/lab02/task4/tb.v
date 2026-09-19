@@ -37,6 +37,7 @@ module tb;
     #2 t_a = 1; t_b = 1;
     #2 t_a = 0; t_b = 0;
     #10 $finish;
+    
   end
 
   initial
